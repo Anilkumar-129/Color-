@@ -1,0 +1,58 @@
+.bg-container{
+    height: 500px;
+    width: 500px;
+    text-align: center;
+    
+}
+.heading{
+    color: black;
+    align-items: center;
+    font-family: sans-serif;
+}
+.card-container{
+    height: 100px;
+    width: 200px;
+
+}
+.button1{
+    background-color:#e0e0e0 ;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+.button2{
+    background-color:#6fcf97 ;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+.button3{
+    background-color:#56ccf2 ;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}
+.button4{
+    background-color:#bb6bd9 ;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+.hexcode{
+   height: 50px;
+   width: 300px;
+   background-color: Black;
+   text-align: center;
+   color: #ffffff;
+   margin-left: 100px;
+   padding: 10px;
+   border-radius: 8px;
+}
+p{
+ color: black;
+ font-size: 20px;
+ font-family: sans-serif;
+}
